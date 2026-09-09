@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Escolha/Escolha.csproj" />
+  <Project Path="Introducao/Introducao.csproj" />
+  <Project Path="Jokenpo_Elementar/Jokenpo_Elementar.csproj" />
+  <Project Path="Sorteio/Sorteio.csproj" />
+</Solution>
