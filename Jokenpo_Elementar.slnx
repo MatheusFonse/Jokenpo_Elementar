@@ -1,6 +1,3 @@
 <Solution>
-  <Project Path="Escolha/Escolha.csproj" />
-  <Project Path="Introducao/Introducao.csproj" />
-  <Project Path="Jokenpo_Elementar/Jokenpo_Elementar.csproj" />
-  <Project Path="Sorteio/Sorteio.csproj" />
+  <Project Path="Teste/Teste.csproj" Id="209aa30d-f777-4dfb-a1ae-5baf4a03eebf" />
 </Solution>
